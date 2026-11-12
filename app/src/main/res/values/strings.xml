@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Guitar Tuner</string>
+
+    <string name="status_idle">Start tuning by playing any string.</string>
+    <string name="status_play_locked">Play the %1$s.</string>
+    <string name="status_tune_up">Tune up</string>
+    <string name="status_tune_down">Tune down</string>
+    <string name="status_hold">Hold it there…</string>
+    <string name="status_in_tune">In tune</string>
+    <string name="status_mic_error">Couldn\'t open the microphone.</string>
+    <string name="locked_hint">Locked to %1$s. Tap it again to unlock.</string>
+
+    <string name="bubble_description">%1$s, %2$s cents</string>
+
+    <string name="string_low_e">low E string</string>
+    <string name="string_a">A string</string>
+    <string name="string_d">D string</string>
+    <string name="string_g">G string</string>
+    <string name="string_b">B string</string>
+    <string name="string_high_e">high E string</string>
+    <string name="state_tuned">tuned</string>
+    <string name="state_locked">locked</string>
+    <string name="action_lock">lock detection to this string</string>
+    <string name="action_unlock">unlock</string>
+
+    <string name="permission_title">Microphone access</string>
+    <string name="permission_rationale">The tuner listens to your guitar through the microphone to work out which string you\'re playing and how far off it is. Audio is analysed on your phone and never recorded or sent anywhere.</string>
+    <string name="permission_denied">The tuner can\'t hear your guitar without the microphone. Allow access to start tuning.</string>
+    <string name="permission_blocked">Microphone access is turned off for this app. Open its settings, tap Permissions, and allow the microphone.</string>
+    <string name="permission_allow">Allow microphone</string>
+    <string name="permission_open_settings">Open settings</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Placeholder icon: a guitar pick with an in-tune needle. Inside the 66dp adaptive-icon safe zone. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#EFE3C8"
+        android:pathData="M54,30 C67,30 77,36 77,46 C77,60 62,75 54,80 C46,75 31,60 31,46 C31,36 41,30 54,30 Z" />
+    <path
+        android:fillColor="#34C77B"
+        android:pathData="M51.5,38 L56.5,38 L56.5,60 L51.5,60 Z" />
+    <path
+        android:fillColor="#34C77B"
+        android:pathData="M54,62 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0" />
+</vector>
